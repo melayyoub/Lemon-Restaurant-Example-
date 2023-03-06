@@ -9,11 +9,10 @@
 ![homepage](./screenshots/Homepage.png)
 ![checkout](./screenshots/checkout.png)
 ![Dark Light them](./screenshots/DarkTheme.png)
-![Menu Items page](./screenshots/itemPage.png)
+![Menu Items page](./screenshots/ItemPage.png)
 ![Responsive](./screenshots/Responsive.png)
 ![Contact Us](./screenshots/ContactUs.png)
 
-![][image_ref_a32ff4ads]
 
 ## how to run
 1- git clone
@@ -44,10 +43,13 @@
 4- Formik
 5- Yup Validation
 6- Menu list and items as const within App.js
-6- Bootstrap
-7- Responsive with Menu Nav
-8- Simple test case
-9- propTypes
-10- React Hooks like useEffect, useState, ...
-11- Accessibility 
+7- Bootstrap
+8- Responsive with Menu Nav
+9- Simple test case
+10- propTypes
+11- React Hooks like useEffect, useState, ...
+12- Accessibility 
+13- ESlint and pretier
+14- Build version to serve
+
 
